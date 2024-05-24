@@ -3,8 +3,14 @@
 
 int main()
 {
-    printf("Ejecutando login");
+    printf("Ejecutando login\n");
 
-    print("Nueva funcionalidad login");
+    printf("Nueva funcionalidad login\n");
+
+    int x = 5;
+
+    int* p = &x;
+
+    printf("%u", *p);
     return 0;
 }
