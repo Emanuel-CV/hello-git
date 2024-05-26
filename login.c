@@ -11,6 +11,8 @@ int main()
 
     int* p = &x;
 
-    printf("%u", *p);
+    printf("%u\n", *p);
+
+    printf("New Hello Github\n");
     return 0;
 }
