@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main()
 {
     printf("Ejecutando login\n");
